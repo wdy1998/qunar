@@ -1,5 +1,5 @@
 # vue-quna
-
+下载完成后 命令行进入此文件夹，npm install安装一下项目需要的包，然后 npm run start,在浏览器上输入localhost:8080即可进入
 > A Vue.js project
 
 ## Build Setup
